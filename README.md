@@ -28,6 +28,7 @@
    🗂️Current Projects:
      └─ Goal: Enhance Frontend & Backend Skills
      └─ Focus: User-friendly, Efficient Applications
+     └─ Crypto: HODLing Bitcoin and exploring trading strategies
 
 > show_HOBBIES
    🎮Hobbies & Interests:
