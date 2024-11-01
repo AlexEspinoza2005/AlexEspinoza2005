@@ -64,8 +64,8 @@
 <br>
 
 <div align="center">
-    <img align="center"src="badges/networking-basics.png" height="120px" width="120px"/>
-    <img align="center"src="badges/ccna-introduction-to-networks.png" height="120px" width="120px"/>
+    <img align="center"src="badges/computer-hardware-basics.png" height="120px" width="120px"/>
+    <img align="center"src="badges/introduction-to-iot.png" height="120px" width="120px"/>
     
 </div>
 <br>
