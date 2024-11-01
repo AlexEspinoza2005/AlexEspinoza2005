@@ -1,4 +1,3 @@
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Alex</h1></summary>
@@ -10,27 +9,31 @@
 <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c52d74c-182c-4089-a9c2-4a742f1f4ebd/dgmixju-50e310d7-2c08-4fb0-97b2-c86cd52efdd3.jpg/v1/fit/w_512,h_512,q_70,strp/light_study__ai__by_ghost999919_dgmixju-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvOGM1MmQ3NGMtMTgyYy00MDg5LWE5YzItNGE3NDJmMWY0ZWJkXC9kZ21peGp1LTUwZTMxMGQ3LTJjMDgtNGZiMC05N2IyLWM4NmNkNTJlZmRkMy5qcGciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.p8gcc5sJwuJXfN29N41y8qUWR1VTG0faJKF_uLyf4H8" width="270px"/>
 
 ```csharp
-👩🏻‍🎓 Who am I:
-    Software Engineering student from Ecuador
-    Passionate about technology and programming
+> WHO AM I
+   👤Alex:
+     └─ Role: Software Engineering Student
+     └─ Location: 🌍 Ecuador, Imbabura - Ibarra
+     └─ Interests: 💻 Tech & Programming
 
-🌍 Location:
-    Ecuador
-    Imbabura, Ibarra
+> show_LOCATION
+   📍Location: Ecuador, Imbabura - Ibarra
 
-🛠️ Languages & Skills:
-    Backend: Java, Python
-    Frontend: HTML, CSS, JavaScript
-    Currently Learning: Ruby and React
+> LANGUAGES --skills
+   🛠️Skills:
+     └─ Backend: Java, Python
+     └─ Frontend: HTML, CSS, JavaScript
+     └─ Currently Learning: Ruby, React
 
-🎯 Currently Working On:
-    Enhancing frontend and backend development skills
-    Focused on creating efficient and user-friendly applications
+> PROJECTS --active
+   🗂️Current Projects:
+     └─ Goal: Enhance Frontend & Backend Skills
+     └─ Focus: User-friendly, Efficient Applications
 
-🎮 Hobbies & Interests:
-    Playing video games
-    Reading
-    Exploring and learning new programming techniques in my free time
+> show_HOBBIES
+   🎮Hobbies & Interests:
+     └─ Gaming
+     └─ Reading
+     └─ Exploring Programming Techniques
 ```
 
 <br>
@@ -57,26 +60,33 @@
 </table>
 <br>
 
-
 <div>
     <h2 align = "center"> 🏆 My Badges </h2>
+
 </div>
+
 <br>
 
 <div align="center">
-    <img align="center"src="badges/computer-hardware-basics.png" height="120px" width="120px"/>
-    <img align="center"src="badges/introduction-to-iot.png" height="120px" width="120px"/>
+<a href="https://www.credly.com/badges/72a650eb-048f-4ccb-9cb8-671f9e0f0f02/public_url" target="_blank">
+    <img align="center" src="badges/computer-hardware-basics.png" height="120px" width="120px" />
+</a>
+
+<a href="https://www.credly.com/badges/0db7ea16-7e31-4cdb-accb-a3bb5fbce010/public_url" target="_blank">
+    <img align="center" src="badges/introduction-to-iot.png" height="120px" width="120px" />
+</a>
+
+
     
 </div>
 <br>
 <br>
-<br>
+<hr>
+<h2 align="center"> My contributions game 🐍🎮
 
-<h1 align="center"> My contributions game 🐍🎮</h1>
+![snake gif](https://github.com/AlexEspinoza2005/AlexEspinoza2005/blob/output/github-contribution-grid-snake.svg)
 
-![](https://raw.githubusercontent.com/JohnKun136NVCP/AlexEspinoza2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/JohnKun136NVCP/AlexEspinoza2005/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
+<br> </h2>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
@@ -88,6 +98,7 @@
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,py,vscode&perline=14" />
   </a>
 </p>
+<hr>
 
 <div id="user-content-toc">
   <ul align="center">
