@@ -1,14 +1,39 @@
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Alex</h1></summary>
   </ul>
 </div>
 
-- 👩🏻‍🎓 A student of Software Engineering from Ecuador
-- 🔭 I’m currently working on improving my frontend and backend development skills.
-- 💭 Fun fact: I enjoy learning about programming in my free time!
-- 😄 Pronouns: He/Him
 
+
+<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c52d74c-182c-4089-a9c2-4a742f1f4ebd/dgmixju-50e310d7-2c08-4fb0-97b2-c86cd52efdd3.jpg/v1/fit/w_512,h_512,q_70,strp/light_study__ai__by_ghost999919_dgmixju-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvOGM1MmQ3NGMtMTgyYy00MDg5LWE5YzItNGE3NDJmMWY0ZWJkXC9kZ21peGp1LTUwZTMxMGQ3LTJjMDgtNGZiMC05N2IyLWM4NmNkNTJlZmRkMy5qcGciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.p8gcc5sJwuJXfN29N41y8qUWR1VTG0faJKF_uLyf4H8" width="270px"/>
+
+```csharp
+👩🏻‍🎓 Who am I:
+    Software Engineering student from Ecuador
+    Passionate about technology and programming
+
+🌍 Location:
+    Ecuador
+    Imbabura, Ibarra
+
+🛠️ Languages & Skills:
+    Backend: Java, Python
+    Frontend: HTML, CSS, JavaScript
+    Currently Learning: Ruby and React
+
+🎯 Currently Working On:
+    Enhancing frontend and backend development skills
+    Focused on creating efficient and user-friendly applications
+
+🎮 Hobbies & Interests:
+    Playing video games
+    Reading
+    Exploring and learning new programming techniques in my free time
+```
+
+<br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block"> 💻GITHUB STATS </h2></summary>
@@ -30,7 +55,28 @@
   </td>
 </tr>
 </table>
+<br>
 
+
+<div>
+    <h2 align = "center"> 🏆 My Badges </h2>
+</div>
+<br>
+
+<div align="center">
+    <img align="center"src="badges/networking-basics.png" height="120px" width="120px"/>
+    <img align="center"src="badges/ccna-introduction-to-networks.png" height="120px" width="120px"/>
+    
+</div>
+<br>
+<br>
+<br>
+
+<h1 align="center"> My contributions game 🐍🎮</h1>
+
+![](https://raw.githubusercontent.com/JohnKun136NVCP/AlexEspinoza2005/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/AlexEspinoza2005/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
