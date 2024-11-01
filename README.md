@@ -98,7 +98,6 @@
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,py,vscode&perline=14" />
   </a>
 </p>
-<hr>
 
 <div id="user-content-toc">
   <ul align="center">
