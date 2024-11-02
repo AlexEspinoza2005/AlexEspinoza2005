@@ -85,7 +85,7 @@
 <hr>
 <h2 align="center"> My contributions game 🐍🎮
 
-![snake gif](https://github.com/AlexEspinoza2005/AlexEspinoza2005/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AlexEspinoza2005/AlexEspinoza2005/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br> </h2>
 <div id="user-content-toc">
