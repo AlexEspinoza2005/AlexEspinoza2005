@@ -3,6 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex" alt="Typing SVG" /></a>
   </ul>
 </div>
+   <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexEspinoza2005&repo=AlexEspinoza2005&countColorcountColor&countColor=%237B1E7B"/>
 
 
 
