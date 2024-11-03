@@ -6,7 +6,7 @@
 
 
 
-<img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8c52d74c-182c-4089-a9c2-4a742f1f4ebd/dgmixju-50e310d7-2c08-4fb0-97b2-c86cd52efdd3.jpg/v1/fit/w_512,h_512,q_70,strp/light_study__ai__by_ghost999919_dgmixju-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvOGM1MmQ3NGMtMTgyYy00MDg5LWE5YzItNGE3NDJmMWY0ZWJkXC9kZ21peGp1LTUwZTMxMGQ3LTJjMDgtNGZiMC05N2IyLWM4NmNkNTJlZmRkMy5qcGciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.p8gcc5sJwuJXfN29N41y8qUWR1VTG0faJKF_uLyf4H8" width="270px"/>
+<img align="left" src="https://camo.githubusercontent.com/d5c715228dd57db500e40292882baeac2b1d6f34ba847349bdfdb68695d5f745/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966" width="270px"/>
 
 ```csharp
 > WHO AM I
@@ -20,9 +20,9 @@
 
 > LANGUAGES --skills
    🛠️Skills:
-     └─ Backend: Java, Python
-     └─ Frontend: HTML, CSS, JavaScript
-     └─ Currently Learning: Ruby, React
+     └─ Backend: Java
+     └─ Frontend: HTML, CSS
+     └─ Currently Learning: Ruby, JavaScript, Python
 
 > PROJECTS --active
    🗂️Current Projects:
