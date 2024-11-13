@@ -5,7 +5,6 @@
 </div>
 
 
-
 <img align="left" src="https://camo.githubusercontent.com/d5c715228dd57db500e40292882baeac2b1d6f34ba847349bdfdb68695d5f745/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966" width="270px"/>
 
 ```csharp
@@ -65,7 +64,6 @@
     <h2 align = "center"> 🏆 My Badges </h2>
 
 </div>
-
 <br>
 
 <div align="center">
@@ -76,7 +74,6 @@
 <a href="https://www.credly.com/badges/0db7ea16-7e31-4cdb-accb-a3bb5fbce010/public_url" target="_blank">
     <img align="center" src="badges/introduction-to-iot.png" height="120px" width="120px" />
 </a>
-
 
     
 </div>
