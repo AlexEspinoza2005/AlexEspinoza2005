@@ -14,14 +14,11 @@
      └─ Location: 🌍 Ecuador, Imbabura - Ibarra
      └─ Interests: 💻 Tech & Programming
 
-> show_LOCATION
-   📍Location: Ecuador, Imbabura - Ibarra
-
 > LANGUAGES --skills
    🛠️Skills:
      └─ Backend: Java
      └─ Frontend: HTML, CSS
-     └─ Currently Learning: Ruby, JavaScript, Python
+     └─ Currently Learning: C#, JavaScript, Python
 
 > PROJECTS --active
    🗂️Current Projects:
@@ -29,11 +26,6 @@
      └─ Focus: User-friendly, Efficient Applications
      └─ Crypto: HODLing Bitcoin and exploring trading strategies
 
-> show_HOBBIES
-   🎮Hobbies & Interests:
-     └─ Gaming
-     └─ Reading
-     └─ Exploring Programming Techniques
 ```
 
 <br>
