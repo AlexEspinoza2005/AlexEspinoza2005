@@ -18,7 +18,7 @@
    🛠️Skills:
      └─ Backend: Java
      └─ Frontend: HTML, CSS
-     └─ Currently Learning: C#, JavaScript, Python
+     └─ Currently Learning: C#, Python
 
 > PROJECTS --active
    🗂️Current Projects:
