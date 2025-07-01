@@ -40,10 +40,6 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <div align="center">
-    <img alt="Visitor Stats" 
-        src="https://widgetbite.com/stats/AlexEspinoza2005"/>  
-</div>
 
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexEspinoza2005&theme=radical&hide_border=false" /> 
