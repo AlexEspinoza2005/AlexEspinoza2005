@@ -99,6 +99,38 @@ $ goals --current
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/CryptoSentinel-Serverless">📡 CryptoSentinel Ultra</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Serverless-Actions_CRON-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Serverless" />
+        <img src="https://img.shields.io/badge/Telegram-Bot_Alerts-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Strategy-DCA_Matrix-orange?style=flat-square" alt="DCA" />
+      </p>
+      <p>
+        Autonomous serverless quantitative engine running scheduled CRON jobs on GitHub Actions. Computes 7-day moving averages, sentiment scoring, and executes automated Dollar-Cost Averaging signals via Telegram.
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlexEspinoza2005/CryptoSentinel-Serverless"><strong>View Source Code ➔</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/GestionEventosConOracle">🎟️ EventMaster Platform</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+        <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/EF_Core-Multi--DB-purple?style=flat-square" alt="EF Core" />
+      </p>
+      <p>
+        Enterprise conference management platform with multi-database persistence (Oracle DB, PostgreSQL, SQL Server), automated integration test suite, API Consumer client, and registration workflows.
+      </p>
+      <p align="center">
+        <a href="https://github.com/AlexEspinoza2005/GestionEventosConOracle"><strong>View Source Code ➔</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/AlexEspinoza2005/MetricsGo">📊 MetricsGo Analytics Platform</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
