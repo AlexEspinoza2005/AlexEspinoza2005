@@ -40,7 +40,7 @@ $ whoami
 > 
 > 📍 Imbabura, Ibarra — Ecuador
 > 
-> 💻 Passionate about **clean code**, **data structures**, and **enterprise backend architectures**
+> 💻 Passionate about **clean code**, **distributed systems**, and **enterprise backend architectures**
 > 
 > 🎯 Focused on building maintainable, high-impact software solutions
 
@@ -57,7 +57,7 @@ $ goals --current
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECTS (Proof of Work)                                   -->
+<!-- FEATURED PROJECTS (Vetted Proof of Work)                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -67,61 +67,65 @@ $ goals --current
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/GestorInovaccionesArbolesdeBusqueda">🌳 Tech Innovations Manager</a></h3>
+      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/CineNova_1-">🎬 CineNova Web API</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-        <img src="https://img.shields.io/badge/Data_Structures-BST-blue?style=flat-square" alt="BST" />
+        <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/PostgreSQL-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <p>
-        Desktop enterprise management system leveraging <strong>Binary Search Trees (BST)</strong> for algorithmic efficiency in cataloging, searching, and analyzing corporate technological innovations.
+        Production-grade RESTful Web API featuring <strong>pgvector embeddings</strong> (Vertex AI), JWT security, SQL analytical views, latency logging, and Dockerized cloud deployment on Render.
       </p>
       <p align="center">
-        <a href="https://github.com/AlexEspinoza2005/GestorInovaccionesArbolesdeBusqueda"><strong>View Source Code ➔</strong></a>
+        <a href="https://github.com/AlexEspinoza2005/CineNova_1-"><strong>View Source Code ➔</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/MetricsGo">📊 MetricsGo Analytics Dashboard</a></h3>
+      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/desafio1010.MVC">🚚 Fleet Management System</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="MVC" />
+        <img src="https://img.shields.io/badge/Web_API-Microservices-blue?style=flat-square" alt="API" />
+        <img src="https://img.shields.io/badge/Architecture-Distributed-green?style=flat-square" alt="Distributed" />
       </p>
       <p>
-        Interactive web dashboard for the <em>InocuoGo</em> virtual assistant. Delivers real-time analytics visualization and monitoring for sustainability and One Health trend data.
+        Multi-tier distributed enterprise platform consisting of a core Fleet Web API, dedicated Logging Microservice (<code>FlotasLogs.API</code>), API Consumer client, and responsive ASP.NET MVC interface.
       </p>
       <p align="center">
-        <a href="https://github.com/AlexEspinoza2005/MetricsGo"><strong>View Source Code ➔</strong></a>
+        <a href="https://github.com/AlexEspinoza2005/desafio1010.MVC"><strong>View Source Code ➔</strong></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/CryptoSentinel-Serverless">⚡ CryptoSentinel Serverless</a></h3>
+      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/MetricsGo">📊 MetricsGo Analytics Platform</a></h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" alt="Serverless" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET_API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET API" />
+        <img src="https://img.shields.io/badge/MVC_Frontend-1572B6?style=flat-square" alt="Frontend" />
+        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
       <p>
-        Cloud-native, event-driven serverless system engineered in Python for tracking live market trends and processing cryptocurrency financial data feeds with automated notifications.
+        Decoupled full-stack monitoring architecture for the <em>InocuoGo</em> virtual assistant. Combines a backend REST API with an interactive MVC metrics dashboard, packaged with Docker.
       </p>
       <p align="center">
-        <a href="https://github.com/AlexEspinoza2005/CryptoSentinel-Serverless"><strong>View Source Code ➔</strong></a>
+        <a href="https://github.com/AlexEspinoza2005/MetricsGo"><strong>View Source Code ➔</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/GestionEventosConOracle">🏢 Enterprise Event Manager</a></h3>
+      <h3 align="center"><a href="https://github.com/AlexEspinoza2005/Advanced-Calculator">🧮 Advanced Scientific Calculator</a></h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-        <img src="https://img.shields.io/badge/SQL-Relational-blue?style=flat-square" alt="SQL" />
+        <img src="https://img.shields.io/badge/Windows_Forms-0078D7?style=flat-square&logo=windows&logoColor=white" alt="WinForms" />
+        <img src="https://img.shields.io/badge/UI-Dark%2FLight-purple?style=flat-square" alt="UI" />
+        <img src="https://img.shields.io/badge/Math-Scientific-orange?style=flat-square" alt="Math" />
       </p>
       <p>
-        Corporate event management software featuring robust relational database integration, transactional consistency (ACID), and enterprise-grade operational data workflows.
+        Comprehensive desktop calculator supporting scientific trigonometry, radix conversions (Hex, Bin, Oct, Dec), dynamic light/dark UI themes, and robust mathematical error handling.
       </p>
       <p align="center">
-        <a href="https://github.com/AlexEspinoza2005/GestionEventosConOracle"><strong>View Source Code ➔</strong></a>
+        <a href="https://github.com/AlexEspinoza2005/Advanced-Calculator"><strong>View Source Code ➔</strong></a>
       </p>
     </td>
   </tr>
