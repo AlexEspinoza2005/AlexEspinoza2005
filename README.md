@@ -47,59 +47,60 @@ $ goals --current
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK (2x2 Balanced Grid with Titles Above Icons)            -->
+<!-- TECH STACK (Perfectly Centered & Categorized)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
-</div>
+  <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>💻 Languages</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=light" />
-        <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,cs,js,ts,html,css&theme=dark" />
-      </picture>
-      <br><br>
-      <sub><b>Python&nbsp;·&nbsp;Java&nbsp;·&nbsp;C#&nbsp;·&nbsp;JavaScript&nbsp;·&nbsp;TypeScript&nbsp;·&nbsp;HTML5&nbsp;·&nbsp;CSS3</b></sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>⚙️ Frameworks & Runtime</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=light" />
-        <img alt="Frameworks" src="https://skillicons.dev/icons?i=dotnet,nodejs,react,spring&theme=dark" />
-      </picture>
-      <br><br>
-      <sub><b>.NET&nbsp;·&nbsp;Node.js&nbsp;·&nbsp;React&nbsp;·&nbsp;Spring&nbsp;Boot</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <h4>🗄️ Databases (SQL)</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=light" />
-        <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-      </picture>
-      <br><br>
-      <sub><b>MySQL&nbsp;·&nbsp;PostgreSQL&nbsp;·&nbsp;SQLite</b></sub>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <h4>☁️ Cloud, DevOps & Tools</h4>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=light" />
-        <img alt="Cloud & Tools" src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode&theme=dark" />
-      </picture>
-      <br><br>
-      <sub><b>Azure&nbsp;·&nbsp;Docker&nbsp;·&nbsp;Git&nbsp;·&nbsp;GitHub&nbsp;·&nbsp;VS&nbsp;Code</b></sub>
-    </td>
-  </tr>
-</table>
+  <!-- Languages -->
+  <p><strong>💻 Languages</strong></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=light" />
+      <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,cs,js,ts,html,css&theme=dark" />
+    </picture>
+  </p>
+  <p><sub><code>Python</code> · <code>Java</code> · <code>C#</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>HTML5</code> · <code>CSS3</code></sub></p>
+  <br>
+
+  <!-- Frameworks & Runtime -->
+  <p><strong>⚙️ Frameworks & Runtime</strong></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=light" />
+      <img alt="Frameworks" src="https://skillicons.dev/icons?i=dotnet,nodejs,react,spring&theme=dark" />
+    </picture>
+  </p>
+  <p><sub><code>.NET</code> · <code>Node.js</code> · <code>React</code> · <code>Spring Boot</code></sub></p>
+  <br>
+
+  <!-- Databases -->
+  <p><strong>🗄️ Databases (SQL)</strong></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=light" />
+      <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+    </picture>
+  </p>
+  <p><sub><code>MySQL</code> · <code>PostgreSQL</code> · <code>SQLite</code></sub></p>
+  <br>
+
+  <!-- Cloud, DevOps & Tools -->
+  <p><strong>☁️ Cloud, DevOps & Tools</strong></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=light" />
+      <img alt="Cloud & Tools" src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode&theme=dark" />
+    </picture>
+  </p>
+  <p><sub><code>Azure</code> · <code>Docker</code> · <code>Git</code> · <code>GitHub</code> · <code>VS Code</code></sub></p>
+</div>
 
 ---
 
@@ -111,25 +112,20 @@ $ goals --current
   <h2>📊 GitHub Stats</h2>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-        <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-      </picture>
-    </td>
-    <td align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=default&hide_border=true&langs_count=8" />
-        <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=default&hide_border=true&langs_count=8" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
+</div>
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AlexEspinoza2005&theme=tokyonight&hide_border=true" />
