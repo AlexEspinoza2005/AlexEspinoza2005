@@ -11,21 +11,16 @@
 </div>
 
 <p align="center">
-  <strong>Software Engineering Student · Imbabura, Ecuador 🇪🇨</strong><br>
-  <em>Focused on Enterprise Backend (.NET · Spring Boot) & Modern Web Solutions (React · Node.js)</em>
+  <em>Transforming ideas into resilient software · Ecuador 🇪🇨 · Open to Remote & Local Opportunities</em>
 </p>
 
 <p align="center">
-  <a href="mailto:alexespinozacangas2018@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/alex-anthony-espinoza-cang%C3%A1s-53530824b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/AlexEspinoza2005?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <a href="mailto:alexespinozacangas2018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -43,11 +38,11 @@ $ whoami
 
 > 🎓 **Software Engineering Student** @ Universidad Técnica del Norte (UTN)
 > 
-> 📍 Imbabura, Ibarra — Ecuador · *Available for Local & Remote Opportunities*
+> 📍 Imbabura, Ibarra — Ecuador
 > 
-> 💻 Specializing in **Enterprise Backend (C# .NET, Spring Boot)** & **Full Stack Web Solutions**
+> 💻 Passionate about **clean code**, **data structures**, and **enterprise backend architectures**
 > 
-> 🎯 Focused on clean architecture, algorithmic efficiency, and relational databases
+> 🎯 Focused on building maintainable, high-impact software solutions
 
 ```text
 $ goals --current
@@ -57,7 +52,7 @@ $ goals --current
 > 
 > ☁️ Implement Cloud & DevOps workflows (**Docker**, **Azure**, **Git CI/CD**)
 > 
-> 🚀 Engineer scalable, business-oriented applications solving real-world challenges
+> 🚀 Deliver scalable applications solving real-world business challenges
 
 ---
 
@@ -244,13 +239,16 @@ $ goals --current
 
 <div align="center">
   <h2>📫 Connect With Me</h2>
+  <p>
+    Have a project in mind, an opportunity, or want to discuss software engineering? Let's talk!
+  </p>
   <p align="center">
     <a href="mailto:alexespinozacangas2018@gmail.com">
       <img src="https://img.shields.io/badge/Email-alexespinozacangas2018%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/alex-anthony-espinoza-cang%C3%A1s-53530824b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Alex%20Espinoza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 </div>
