@@ -47,60 +47,59 @@ $ goals --current
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK (Perfectly Centered & Categorized)                       -->
+<!-- TECH STACK (2x2 Grid / Cuadrados balanceados)                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
-  <br>
-
-  <!-- Languages -->
-  <p><strong>💻 Languages</strong></p>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=light" />
-      <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,cs,js,ts,html,css&theme=dark" />
-    </picture>
-  </p>
-  <p><sub><code>Python</code> · <code>Java</code> · <code>C#</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>HTML5</code> · <code>CSS3</code></sub></p>
-  <br>
-
-  <!-- Frameworks & Runtime -->
-  <p><strong>⚙️ Frameworks & Runtime</strong></p>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=light" />
-      <img alt="Frameworks" src="https://skillicons.dev/icons?i=dotnet,nodejs,react,spring&theme=dark" />
-    </picture>
-  </p>
-  <p><sub><code>.NET</code> · <code>Node.js</code> · <code>React</code> · <code>Spring Boot</code></sub></p>
-  <br>
-
-  <!-- Databases -->
-  <p><strong>🗄️ Databases (SQL)</strong></p>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=light" />
-      <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
-    </picture>
-  </p>
-  <p><sub><code>MySQL</code> · <code>PostgreSQL</code> · <code>SQLite</code></sub></p>
-  <br>
-
-  <!-- Cloud, DevOps & Tools -->
-  <p><strong>☁️ Cloud, DevOps & Tools</strong></p>
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=light" />
-      <img alt="Cloud & Tools" src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode&theme=dark" />
-    </picture>
-  </p>
-  <p><sub><code>Azure</code> · <code>Docker</code> · <code>Git</code> · <code>GitHub</code> · <code>VS Code</code></sub></p>
 </div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>💻 Languages</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=light" />
+        <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,cs,js,ts,html,css&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>Python&nbsp;&nbsp;·&nbsp;&nbsp;Java&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;C#&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;JS&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;TS&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;HTML5&nbsp;&nbsp;·&nbsp;&nbsp;CSS3</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>⚙️ Frameworks & Runtime</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=light" />
+        <img alt="Frameworks" src="https://skillicons.dev/icons?i=dotnet,nodejs,react,spring&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>.NET&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Node.js&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Spring&nbsp;Boot</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🗄️ Databases (SQL)</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=light" />
+        <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQLite</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>☁️ Cloud, DevOps & Tools</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=light" />
+        <img alt="Cloud & Tools" src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>Azure&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Docker&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;VS&nbsp;Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
