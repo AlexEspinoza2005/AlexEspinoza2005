@@ -1,101 +1,203 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex" alt="Typing SVG" /></a>
-  </ul>
-</div>
-
-
-<img align="left" src="https://camo.githubusercontent.com/d5c715228dd57db500e40292882baeac2b1d6f34ba847349bdfdb68695d5f745/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f517670715443694563777476783677774a4b2f67697068792e676966" width="270px"/>
-
-```csharp
-> WHO AM I
-   👤Alex:
-     └─ Role: Software Engineering Student
-     └─ Location: 🌍 Ecuador, Imbabura - Ibarra
-     └─ Interests: 💻 Tech & Programming
-
-> LANGUAGES --skills
-   🛠️Skills:
-     └─ Backend: Java
-     └─ Frontend: HTML, CSS
-     └─ Currently Learning: C#, Python
-
-> PROJECTS --active
-   🗂️Current Projects:
-     └─ Goal: Enhance Frontend & Backend Skills
-     └─ Focus: User-friendly, Efficient Applications
-     └─ Crypto: HODLing Bitcoin and exploring trading strategies
-
-```
-
-<br>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 💻GITHUB STATS </h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexEspinoza2005&theme=radical&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlexEspinoza2005&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
-<br>
-
-<div>
-    <h2 align = "center"> 🏆 My Badges </h2>
-
-</div>
-<br>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- HEADER - Typing Animation (adapts to light/dark mode)             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<a href="https://www.credly.com/badges/72a650eb-048f-4ccb-9cb8-671f9e0f0f02/public_url" target="_blank">
-    <img align="center" src="badges/computer-hardware-basics.png" height="120px" width="120px" />
-</a>
-
-<a href="https://www.credly.com/badges/0db7ea16-7e31-4cdb-accb-a3bb5fbce010/public_url" target="_blank">
-    <img align="center" src="badges/introduction-to-iot.png" height="120px" width="120px" />
-</a>
-
-    
-</div>
-<br>
-<br>
-<hr>
-<h2 align="center"> My contributions game 🐍🎮
-
-![snake gif](https://github.com/AlexEspinoza2005/AlexEspinoza2005/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br> </h2>
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex+Espinoza" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6D28D9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex+Espinoza" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6D28D9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Alex+Espinoza" />
+  </picture>
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,py,vscode&perline=14" />
+  <em>Software Engineering Student · Ecuador 🇪🇨</em>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 👤 About Me
+
+```text
+$ whoami
+```
+
+> 🎓 **Software Engineering Student**
+> 
+> 📍 Imbabura, Ibarra — Ecuador
+> 
+> 💻 Passionate about Tech & Software Development
+> 
+> 🎯 Building user-friendly & efficient applications
+
+```text
+$ goals --current
+```
+
+> 🔧 Strengthen Fullstack development (Java, C#, Python, TypeScript)
+> 
+> ☁️ Cloud & DevOps (Docker, Azure, Git)
+> 
+> 🚀 Build modern, reliable and scalable solutions
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK (2x2 Balanced Grid with Titles Above Icons)            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🛠️ Technologies & Tools</h2>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>💻 Languages</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccs%2Cjs%2Cts%2Chtml%2Ccss&theme=light" />
+        <img alt="Languages" src="https://skillicons.dev/icons?i=py,java,cs,js,ts,html,css&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>Python&nbsp;·&nbsp;Java&nbsp;·&nbsp;C#&nbsp;·&nbsp;JavaScript&nbsp;·&nbsp;TypeScript&nbsp;·&nbsp;HTML5&nbsp;·&nbsp;CSS3</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>⚙️ Frameworks & Runtime</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dotnet%2Cnodejs%2Creact%2Cspring&theme=light" />
+        <img alt="Frameworks" src="https://skillicons.dev/icons?i=dotnet,nodejs,react,spring&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>.NET&nbsp;·&nbsp;Node.js&nbsp;·&nbsp;React&nbsp;·&nbsp;Spring&nbsp;Boot</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h4>🗄️ Databases (SQL)</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Csqlite&theme=light" />
+        <img alt="Databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>MySQL&nbsp;·&nbsp;PostgreSQL&nbsp;·&nbsp;SQLite</b></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4>☁️ Cloud, DevOps & Tools</h4>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=azure%2Cdocker%2Cgit%2Cgithub%2Cvscode&theme=light" />
+        <img alt="Cloud & Tools" src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode&theme=dark" />
+      </picture>
+      <br><br>
+      <sub><b>Azure&nbsp;·&nbsp;Docker&nbsp;·&nbsp;Git&nbsp;·&nbsp;GitHub&nbsp;·&nbsp;VS&nbsp;Code</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS (responsive side-by-side + light/dark mode)          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+        <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=AlexEspinoza2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+      </picture>
+    </td>
+    <td align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=default&hide_border=true&langs_count=8" />
+        <img alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlexEspinoza2005&layout=compact&theme=default&hide_border=true&langs_count=8" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AlexEspinoza2005&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AlexEspinoza2005&theme=default&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=AlexEspinoza2005&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- BADGES / CERTIFICATIONS                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🏆 Certifications</h2>
+</div>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/72a650eb-048f-4ccb-9cb8-671f9e0f0f02/public_url">
+    <img src="badges/computer-hardware-basics.png" height="120" width="120" alt="Computer Hardware Basics" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/0db7ea16-7e31-4cdb-accb-a3bb5fbce010/public_url">
+    <img src="badges/introduction-to-iot.png" height="120" width="120" alt="Introduction to IoT" />
+  </a>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SNAKE CONTRIBUTION GRAPH (dark + light mode versions)              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexEspinoza2005/AlexEspinoza2005/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexEspinoza2005/AlexEspinoza2005/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/AlexEspinoza2005/AlexEspinoza2005/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- CONNECT                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>📫 Connect With Me</h2>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-anthony-espinoza-cang%C3%A1s-53530824b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/alex_espinoza.9/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+---
 
-<p align="center">
-<a href="https://www.linkedin.com/in/alex-anthony-espinoza-cang%C3%A1s-53530824b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/alex_espinoza.9/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexEspinoza2005&style=flat-square&color=6D28D9&label=Profile+Views" alt="Profile views" />
+</div>
