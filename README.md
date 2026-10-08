@@ -235,25 +235,6 @@ $ goals --current
   </picture>
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- BADGES / CERTIFICATIONS                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <h2>🏆 Certifications</h2>
-  <a href="https://www.credly.com/badges/72a650eb-048f-4ccb-9cb8-671f9e0f0f02/public_url">
-    <img src="badges/computer-hardware-basics.png" height="120" width="120" alt="Computer Hardware Basics" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/0db7ea16-7e31-4cdb-accb-a3bb5fbce010/public_url">
-    <img src="badges/introduction-to-iot.png" height="120" width="120" alt="Introduction to IoT" />
-  </a>
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SNAKE CONTRIBUTION GRAPH (dark + light mode versions)              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
